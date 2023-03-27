@@ -149,7 +149,7 @@ const submitDonation = (
     <div style={{ margin: "0.2em -0.5em -1em -0.5em" }}>
       <div id="fieldset" style={{ border: "none", padding: "2em 0" }}>
         <label for="donation" class="form-label">
-          Donation amount (in Ⓝ)
+          Donation amounts to (in Ⓝ)
         </label>
         <div className="input-group">
           <input
